@@ -13,7 +13,7 @@ redirect_from:
 ---
 
 To add an Excel data source, do the following:
-1. In the **Explorer**, click on the **New Data Source** button.
+1. In the **Explorer** pane, click on the **Add Data Source** button.
 2. Select **Excel**.
 
 right click on [Data] or alternatively click on the [...] button and then select [Add data source] and [Excel] (1).
