@@ -12,12 +12,11 @@ redirect_from:
   - /data_sources/en-excel.html
 ---
 
-This page explains the features of accessing an Excel data source from Peakboard.
-The following link contains a tutorial on how to configure external data sources in general and how to link them to Peakboard elements:
+To add an Excel data source, do the following:
+1. In the **Explorer**, click on the **New Data Source** button.
+2. Select **Excel**.
 
-[Getting started with external data sources using an XML data source as an example](/tutorials/03-en-xml-data.html).
-
-To add the data source, right click on [Data] or alternatively click on the [...] button and then select [Add data source] and [Excel] (1).
+right click on [Data] or alternatively click on the [...] button and then select [Add data source] and [Excel] (1).
 
  ![Add data source](/assets/images/data-sources/excel/en_excel-01.png)
 
