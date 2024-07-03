@@ -32,10 +32,14 @@ Set up your new data source:
   * SharePoint
 
 <div class="box-tip" markdown="1">
-**Important!**
-Any Excel files you create as **file** will only contain the record that was current when the file was added to the resources. To display real-time data, you should choose one of the other options!
+**Important**.
+Any Excel files you create as **File** will only contain the record that was current when the file was added to the resources. To display real-time data, you should choose one of the other options!
 </div>
 
 4) Load the worksheets and select the one you want to use. By default, the data source uses the entire worksheet. To change this, deselect **Select all**, and enter a range of cells.
 
-5) 
+"Column names in first row" - Use the first row in the Excel file to name the columns. Otherwise, generic column headings are used (Column0, Column1, etc.).
+
+"Switch rows and columns" - This lets you transpose the Excel data with just one click.
+
+5) Click on "Load data" to preview the data.
