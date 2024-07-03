@@ -22,7 +22,7 @@ Set up your new data source:
 
 1) Give your data source a name.
 
-2) Specify when you want the data source to update its data.
+2) Specify when you want your data source to update its data.
 
 3) Set the source of the Excel file.
   * URL
@@ -43,3 +43,5 @@ Any Excel files you create as **File** will only contain the record that was cur
 "Switch rows and columns" - This lets you transpose the Excel data with just one click.
 
 5) Click on "Load data" to preview the data.
+
+To change the data type of a column, right click the column and select "Change column data type." You can only do this if you have already saved your data source.
